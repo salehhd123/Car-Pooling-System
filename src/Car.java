@@ -40,7 +40,7 @@ public class Car {
 
     public void check()throws Exception{
         if(maxCapacityPerTrip==0){
-            throw new Exception("can not be zero or less");
+            throw new Exception("can not be zero");
         }
     }
 }
