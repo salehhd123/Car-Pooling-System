@@ -8,7 +8,7 @@ public class Main {
 
             Car c1 = new Car("111", r1, 1);
             c1.check();
-            Car c2 = new Car("89", r2, 4);
+            Car c2 = new Car("89", r2, 0);
             c2.check();
 
 
